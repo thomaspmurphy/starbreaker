@@ -1,5 +1,9 @@
 # starbreaker
 
+Starfighting game.
+
+Use WASD or arrow keys to move. Shoot using spacebar. Boost using shift and GIGABOOST/warp using Tab.
+
 To install dependencies:
 
 ```bash
@@ -9,7 +13,5 @@ bun install
 To run:
 
 ```bash
-bun run index.ts
+bun run dev
 ```
-
-This project was created using `bun init` in bun v1.1.34. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
